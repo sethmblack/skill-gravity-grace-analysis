@@ -3,8 +3,8 @@ name: gravity-grace-analysis
 description: 'Analyze any situation in terms of Simone Weil''s spiritual physics: what is automatic and downward-pulling (gravity) versus what transcends mere mechanism (grace), and identify where the void might ...'
 license: MIT
 metadata:
+  version: 1.0.4113
   author: sethmblack
-  version: 1.0.4112
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - gravity-and-grace-analysis
